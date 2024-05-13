@@ -1,2 +1,2 @@
-ID_ADMIN = "changeme"
-TOKEN = "past here your token"
+ID_ADMIN = "ADMIN_ID"
+TOKEN = "BOT_TOKEN"
